@@ -1,0 +1,22 @@
+{
+  "name": "postlinkedin",
+  "version": "1.0.0",
+  "description": "Auto post articles in linkedin",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexiades/postLinkeIn.git"
+  },
+  "author": "Alejandro Alexiades",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexiades/postLinkeIn/issues"
+  },
+  "homepage": "https://github.com/Alexiades/postLinkeIn#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
