@@ -2,9 +2,10 @@
 
 
 Example of JSON:
-
+```
 {
-  URL:
-  VISITORS:
-  LIKES:
+  "URL":, 
+  "VISITORS":, 
+ "LIKES":, 
 }
+```
